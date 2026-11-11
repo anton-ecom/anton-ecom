@@ -4,4 +4,4 @@ I'm 0en, Software Architect, Platform Engineer, Tech consultant with over 25 yea
 
 I consult startups, investors and enterprises on technology strategy, architecture design, and best practices for building resilient and scalable systems.
 
-https://0en.xyz
+https://0en.dev
