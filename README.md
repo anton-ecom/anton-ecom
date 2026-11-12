@@ -15,10 +15,13 @@ I develop AI-first architectures, Self-Sovereign Identity, Agentic security, Con
 </div>
 
 ---
-Innovations:
 
-[N-ORG](./innovations/n-org.md) •
-[Mutualism](./posts/mutualism.md) •
+<div align="center" >
+Join me:
+<a href="./innovations/n-org.md">N-ORG: Network organization design</a>
+</div>
+
+
 ---
 
 <div align="center">

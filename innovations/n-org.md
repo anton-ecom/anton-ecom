@@ -19,7 +19,7 @@ We've invented a technology that is capable, useful and scalable. That was a bre
 
 With all of its limitations and potential harm to the society, Microsoft, Google & Amazon jumped right to scalability, instead solving its evident limitation: energy costs. Despite the fact, that planned data-centers will consume most of electricity, and energy systems nowhere near to meet that 'artificial demand', they keep pouring billions into the same LLM architecture and actively supressing alternative technologies. We end up coping with all inefficiencies, and what's most important, applications of the technology. 
 
-The data-center buildout in the most cunning possible way of treating the whole planet as the resource for global dominvation. The technology, that is openly admittted can get kill us all, yet nobody can do anything about it. 
+The data-center buildout in the most cunning possible way of treating the whole planet as the resource for global domination. The technology, that is openly admittted can kill us all, yet nobody can do anything about it. 
 
 Bottom line:
 
