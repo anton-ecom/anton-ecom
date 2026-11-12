@@ -8,23 +8,17 @@ Architectures and open-source development. My passion lies in leveraging technol
 I develop AI-first architectures, Self-Sovereign Identity, Agentic security, Conformance protocols, AI alignment, Eval and QA.
 
 
-
 <div align="center" style="padding-bottom:10px">
 <a href="./PRINCIPLES.md">Principles</a> •
-<a href="./PHILOSOPHY.md">Philosophy</a>
+<a href="./PHILOSOPHY.md">Philosophy</a> •
+<a href="./INNOVATIONS.md">Innovations</a> 
 </div>
 
 ---
+Innovations:
 
-Poetry:
-[Synthetic Mind Dream](./poetry/synthetic-mind-dream.md)
-
-Dev Art: 
-[I write code](./posts/i-write-code.md) •
-[Fit or Fly](./posts/fit-or-fly.md) •
-[Vibe Food](./posts/vibe-food.md) •
-[50 years of closed](./posts/50-years-of-closed.md)
-
+[N-ORG](./innovations/n-org.md) •
+[Mutualism](./posts/mutualism.md) •
 ---
 
 <div align="center">
@@ -69,3 +63,24 @@ Private key security architecture
 </p>
 </div>
 
+
+---
+
+Poetry:
+[Synthetic Mind Dream](./poetry/synthetic-mind-dream.md)
+
+Dev Art: 
+[I write code](./posts/i-write-code.md) •
+[Fit or Fly](./posts/fit-or-fly.md) •
+[Vibe Food](./posts/vibe-food.md) •
+[50 years of closed](./posts/50-years-of-closed.md)
+
+---
+
+>We either make history or become history.
+>
+>(c) 0en 
+
+<p >
+  <img src="assets/header/moto.jpg" alt="We either make history or become history" width="100%">
+<p>
